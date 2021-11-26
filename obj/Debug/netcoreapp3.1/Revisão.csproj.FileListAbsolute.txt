@@ -1,0 +1,5 @@
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Primeiros Passos com .NET\Revisão\obj\Debug\netcoreapp3.1\Revisão.csproj.AssemblyReference.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Primeiros Passos com .NET\Revisão\obj\Debug\netcoreapp3.1\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Primeiros Passos com .NET\Revisão\obj\Debug\netcoreapp3.1\Revisão.AssemblyInfoInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Primeiros Passos com .NET\Revisão\obj\Debug\netcoreapp3.1\Revisão.AssemblyInfo.cs
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Primeiros Passos com .NET\Revisão\obj\Debug\netcoreapp3.1\Revisão.csproj.CoreCompileInputs.cache
